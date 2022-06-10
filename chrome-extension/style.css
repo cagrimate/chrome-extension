@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rowField{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    width: 30px;
+    height: 150px;
+}
